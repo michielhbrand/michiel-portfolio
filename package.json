@@ -31,9 +31,12 @@
     "tailwindcss": "^3.4.15"
   },
   "postcss": {
+    "parser": "sugarss",
+    "map": false,
     "plugins": {
       "tailwindcss": {},
-      "autoprefixer": {}
+      "autoprefixer": {},
+      "postcss-plugin": {}
     }
   },
   "dependencies": {
