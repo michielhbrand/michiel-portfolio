@@ -88,9 +88,9 @@ const setupTheme = () => {
       },
     ].forEach(toggleComment);
 
+    // "postcss.config.js",
     const includesFiles = [
       "tailwind.config.js",
-      "postcss.config.js",
       "go.mod",
       "hugo.toml",
       "assets",
