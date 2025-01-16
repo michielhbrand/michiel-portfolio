@@ -1,0 +1,106 @@
+############# English navigation ##############
+
+# main menu
+# [[main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+# [[main]]
+# name = "About"
+# url = "/about"
+# weight = 2
+
+# [[main]]
+# name = "Elements"
+# url = "/elements"
+# weight = 3
+
+# [[main]]
+# weight = 4
+# name = "Pages"
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "/blog"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
+
+[[main]]
+name = "Home"
+url = "/"
+weight = 5
+
+[[main]]
+name = "Education"
+url = "/education"
+weight = 6
+
+[[main]]
+name = "Work"
+url = "/work"
+weight = 7
+
+[[main]]
+name = "Life"
+url = "/life"
+weight = 8
+
+# [[main]]
+# name = "Achievements"
+# url = "/achievements"
+# weight = 9
+
+[[main]]
+name = "Books"
+weight = 10
+
+[[main]]
+parent = "Books"
+name = "Clean Code"
+url = "/clean-code"
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Education"
+url = "/education"
+weight = 2
+
+[[footer]]
+name = "Work"
+url = "/work"
+weight = 3
+
+[[footer]]
+name = "Life"
+url = "/life"
+weight = 4
+
+# [[footer]]
+# name = "Achievements"
+# url = "/achievements"
+# weight = 4
