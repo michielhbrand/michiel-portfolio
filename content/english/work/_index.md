@@ -12,7 +12,7 @@ draft: false
 
 ###### Alphawave (2022 - Today)
 
-Right after finishing my engineering studies, I started my professional journey in Software Engineering. I was fortunate to be recruited by [Etse Electronics](https://etse.co.za/) - a subsidiaty of the [Alphawave Group](https://alphawave.co.za/) - as a junior full-stack developer. The small team and learning-friendly environment gave me all the exposure that I could have wished for as a junior. Not long after joining, I was handed the main software responsibilities of a SaaS startup, [Farmtrack](https://farmtrack.co.za/). Farmtrack is a complex realtime data analytics platform which enables farmers to track their crop spraying operations in real time.
+Right after finishing my engineering studies, I started my professional journey in Software Engineering. I was fortunate to be recruited by [Etse Electronics](https://etse.co.za/) - a subsidiaty of the [Alphawave Group](https://alphawave.co.za/) - as a junior full-stack developer. The small team and learning-friendly environment gave me all the exposure that I could have wished for as a junior. Not long after joining, I was handed the main software responsibilities of a SaaS startup, [Farmtrack](https://farmtrack.co.za/). Farmtrack is a complex data analytics platform which enables farmers to track their crop spraying operations in real time.
 
 <hr>
 
